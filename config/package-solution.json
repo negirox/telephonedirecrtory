@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "delphi-telephonedirectory-client-side-solution",
+    "id": "8ee44a71-9eb7-45e5-a9dd-48b2998cd25d",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "delphi-telephonedirectory description"
+      },
+      "longDescription": {
+        "default": "delphi-telephonedirectory description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "delphi-telephonedirectory Feature",
+        "description": "The feature that activates elements of the delphi-telephonedirectory solution.",
+        "id": "78f1112a-d78f-4a68-815a-fd2aaa94f36b",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/delphi-telephonedirectory.sppkg"
+  }
+}
